@@ -1,4 +1,4 @@
-!pip install -q anthropic
+#!pip install -q anthropic
 
 import os
 os.environ["ANTHROPIC_API_KEY"] = "sk-ant-... "
